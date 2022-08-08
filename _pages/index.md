@@ -1,22 +1,10 @@
 ---
 layout: page
-title: Home
+title: the back garden
 id: home
 permalink: /
 ---
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+There's not much to see here yet, but you can check out my recent [highlights](/highlights).

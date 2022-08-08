@@ -1,18 +1,20 @@
-title:               My digital garden
+title:               the back garden
 include:             ['_pages']
-exclude:             ['_includes/notes_graph.json']
+exclude:
+  - '_includes/notes_graph.json'
+  - 'garden/Extras'
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).
-baseurl:             ''
-
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://garden.edbury.io/"
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
 use_html_extension:  false
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.
-open_external_links_in_new_tab: true
+open_external_links_in_new_tab: false
 
 # Set to `true` to replace tweet URLs with Twitter embeds.
 # Note that doing so will negatively the reader's privacy
@@ -29,10 +31,17 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
+collections_dir: "garden"
 collections:
   notes:
     output: true
-    permalink: /:slug
+    permalink: /:collection/:slug
+  sources:
+    output: true
+    permalink: /highlight/:slug
+  spaces:
+    output: true
+    permalink: /:collection/:path
 
 defaults:
   - scope:
@@ -40,6 +49,14 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "_notes/**/*.md"
+      path: "garden/_notes/**/*.md"
     values:
       layout: "note"
+  - scope:
+      path: "garden/_sources/**/*.md"
+    values:
+      layout: "highlight"
+  - scope:
+      path: "garden/_spaces/**/*.md"
+    values:
+      layout: "default"

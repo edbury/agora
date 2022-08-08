@@ -1,6 +1,14 @@
 ---
 ---
 
-@import "../_sass/normalize";
-@import "../_sass/code";
-@import "../_sass/style";
+// @import "code";
+@import "style";
+
+@import "abstracts/tokens";
+@import "abstracts/mixins";
+@import "base/reset";
+@import "base/base";
+@import "components/highlight";
+@import "components/sibling";
+@import "layout/base";
+
