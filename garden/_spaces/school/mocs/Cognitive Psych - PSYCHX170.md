@@ -89,7 +89,7 @@
 
 #### Guest interview
 
-- [x] [[Interview with Beth Mormino Ph.D]] 📅 2022-07-21 ✅ 2022-07-21
+- [x] [[Interview with Beth Mormino]] 📅 2022-07-21 ✅ 2022-07-21
 
 #### Reading
 
