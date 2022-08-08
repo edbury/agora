@@ -1,13 +1,14 @@
 ---
 title: "Dune"
-subtitle:
+subtitle: null
 author: "Frank Herbert"
-translator:
+translator: null
 year: 1965
-finished: 
-location: 
+finished: null
+location: null
 tags: "#source/book #dune"
 highlights:
   - page: 26
-	  text: |
+    text: |
+      Sample
 ---
