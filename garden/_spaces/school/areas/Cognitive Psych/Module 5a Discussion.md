@@ -1,0 +1,14 @@
+created:: [[2022-06-22]]
+up:: [[Cognitive Psych - PSYCHX170]]
+tags:: #psychx170 
+***
+
+>From the video interview for this module, what were two specific things that you found of interest? Explain the things clearly, and then describe why they were of special interest to you.
+
+First, I found the relationship between brain structures and memory storage interesting. As I understand it, episodic memories are not stored as a gestalt in a central repository. Instead, perceptual systems send information to the hippocampus, where the discrete pieces are encoded and linked to each other (consolidated?).  After that, these traces are sent back to their relevant perceptual systems for storage (e.g. imagery back to the visual association cortex, acoustic information to the temporal lobe). During recall, this information is sent back to the hippocampus to be re-experienced together, which gives us the subjective feeling of experiencing the episode as a gestalt. 
+
+This wasn't a huge shock, given that the lectures and text have already noted that different types of memory are housed in different areas of the brain. However, we haven't gone that deep on neurological structures, so I understood this to mean that delineation happened at the highest categories of memory--procedural vs episodic, for example. This distributed storage of memory components back to (and recall from) the perceptual systems where the information originated introduces an entire other layer of complexity to the model. Not only is it, to be blunt, quite cool, it also reveals how many more opportunities for the internal manipulation of memory there are! It's not simply the hippocampus or amygdala that might misbehave anymore. 
+
+Second, I was struck by the significant lapse in cognitive performance due to lack of sleep. Even six hours, compared to eight, for a week straight produced a 30% decline. Dr. Gade explained that a large factor here is that the consolidation aspect of memory is often linked to sleep. 
+
+My interest here is much more direct. I rarely get a full 8 hours of sleep. Since my teenage years, sleep has been associated with struggle--sometimes to the point of aversion. As an adult, I've come to believe that a complete good night's rest is simply unavailable to me. I've also built up a sense that a full night of sleep is overrated (yes, despite countless pieces of literature telling me otherwise). A 30% decline in cognitive performance, however, is staggering. While this is all subject to individual differences and the appropriate dosage of sleep probably varies, I feel motivated to at least attempt to curate a healthier sleep routine.

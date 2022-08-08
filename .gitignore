@@ -1,6 +1,14 @@
 # Generated website directory
 _site/
 
+# Vault
+garden/atlas
+garden/calendar
+garden/cards
+garden/encounters
+garden/_spaces/*
+!garden/_spaces/school/
+
 # Sass cache
 .sass-cache/
 
