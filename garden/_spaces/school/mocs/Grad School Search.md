@@ -5,5 +5,5 @@ up:: [[+home]]
 tags:: #gradsearch 
 ***
 # School Selection
-- [[Grad schools list V1]] - Largest possible scope w/ relevant info attached
-- [[Grad schools list V2]] - Noncompensatory eliminations based on location and input from [[Fleitas]]
+- [[total available programs]] - Largest possible scope w/ relevant info attached
+- [[minimum viable programs]] - Noncompensatory eliminations based on location and input from [[Fleitas]]
