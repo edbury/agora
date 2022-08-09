@@ -2,10 +2,10 @@
 _site/
 
 # Vault
-garden/atlas
-garden/calendar
-garden/cards
-garden/encounters
+garden/_atlas
+garden/_calendar
+garden/_cards
+garden/_encounters
 garden/_spaces/*
 !garden/_spaces/school/
 
