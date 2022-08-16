@@ -11,7 +11,7 @@ permalink: /highlights
 <ul class="highlight--feed">
 
   {% for highlight_items in highlight_items %}
-    {%- assign highlight-cover = highlight_items.title | url_encode | prepend: "/garden/assets/img/covers/" | append: ".jpg" -%}
+    {%- assign highlight-cover = highlight_items.title | url_encode | prepend: "/garden/assets/img/covers/" | replace: "%3A", "+" | append: ".jpg" -%}
 
     <li class="highlight--feed-item">
       <a href="{{highlight_items.url}}" style="text-decoration: none;">

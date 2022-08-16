@@ -29,4 +29,10 @@ highlights:
   - page: 33
     text: |
       *The self is not some thing within us that is in a state of crisis; it is the form they mean to stamp on us.*
+  - page: 40
+    text: |
+      From flirtation to divorce, from cohabitation to stepfamilies, everyone feels the inanity of the sad family nucleus, but most seem to believe that it would be sadder still to give it up. The family is no longer so much the suffocation of maternal control or the patriarchy of beatings as it is this infantile abandon to a fuzzy dependency, where everything is familiar, this carefree moment in the face of a world that nobody can deny is breaking down, a world where "becoming self-sufficient" is a euphemism for "finding a boss."
+  - page: 41
+    text: |
+      "Becoming autonomous," could just as easily mean learning to fight in the street, to occupy empty houses, to cease working, to love each other madly, and to shoplift.
 ---

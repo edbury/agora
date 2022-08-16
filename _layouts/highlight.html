@@ -31,7 +31,7 @@ layout: default
   <a href="{{ next.url }}" class="sibling sibling--next" title="{{ next.title }}">{{ next.title }}</a>
   {% endif %}
 {% endif %}
-{%- assign highlight-cover = page.title | url_encode | prepend: "/garden/assets/img/covers/" | append: ".jpg" -%}
+{%- assign highlight-cover = page.title | url_encode | prepend: "/garden/assets/img/covers/" | replace: "%3A", "+" | append: ".jpg" -%}
 <article class="highlight--book">
   <figure class="highlight--cover">
     <img src={{highlight-cover}} alt="Cover of {{page.title}}">
