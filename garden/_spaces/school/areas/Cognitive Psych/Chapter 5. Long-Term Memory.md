@@ -3,9 +3,9 @@ up:: [[Cognitive Psych - PSYCHX170]]
 tags:: #psychx170 #memory #ltm 
 ***
 
-- [ ] Make source card for CogPsych book
-- [ ] Create glossary
-  - [ ] add terms to glossary cards
+- [x] Make source card for CogPsych book ✅ 2022-08-17
+- [x] Create glossary ✅ 2022-08-17
+  - [x] add terms to glossary cards ✅ 2022-08-17
 
 # Chapter 5. Long-Term Memory
 

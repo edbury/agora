@@ -97,7 +97,7 @@
 
 #### Reading
 
-- [ ] [[Chapter 10. Language]] 📅 2022-07-21
+- [x] [[Chapter 10. Language]] 📅 2022-07-21 ✅ 2022-08-18
 
 #### Assignments
 
@@ -116,7 +116,7 @@
 
 #### Reading
 
-- [ ] [[Chapter 12. Problem Solving]] 📅 2022-07-28
+- [x] [[Chapter 12. Problem Solving]] 📅 2022-07-28 ✅ 2022-08-18
 
 #### Assignments
 
@@ -134,7 +134,7 @@
 
 #### Reading
 
-- [ ] Chapter 14, Cognition: Theory and Application 📆 2022-08-04
+- [x] [[Chapter 14.]] 📅 2022-08-04 ✅ 2022-08-18
 
 #### Assignments
 
@@ -143,4 +143,4 @@
 
 ## Final Exam
 
-- [ ] Final exam 📆 2022-08-18
+- [x] Final exam 📅 2022-08-18 ✅ 2022-08-18
