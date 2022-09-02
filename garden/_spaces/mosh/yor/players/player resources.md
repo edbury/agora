@@ -8,11 +8,16 @@ up:: [[index]]
   
   This is the core Mothership rulebook. The Player's Survival Guide is currently a work in progress. While most of the systems in this version remain unchanged, major differences are detailed below.
 
+- [[Character creation]]
+
+  As D-Class volunteers for The Foundation, character creation is slightly adjusted.
+
 ## 1E errata 
 
 Learn more about the changes to various systems here:
 
 - [[combat and defense]]
+- [[weapons]]
 - [[wounds and death]]
 - [[medical care]]
 - [[skill training]]
