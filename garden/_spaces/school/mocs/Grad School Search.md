@@ -1,8 +1,16 @@
+---
+---
 created:: [[2022-07-24]]
 up:: [[+home]]
 tags:: #gradsearch 
-***
+
 # Grad school search
+
+## School Selection
+
+- [[total available programs]] - Largest possible scope w/ relevant info attached
+- [[minimum viable programs]] - Noncompensatory eliminations based on location and input from [[Fleitas]]
+- [[compatible programs]] - Reduced by orientation, research, and clinic alignment.
 
 ## Timeline
 
@@ -60,8 +68,3 @@ tags:: #gradsearch
 - [ ] Accept offer and turn down any less-preferred offers #gradsearch 
 - [ ] Finalize financial aid arrangements #gradsearch 
 - [ ] Inform letter writers of outcome #gradsearch 
-
-
-## School Selection
-- [[total available programs]] - Largest possible scope w/ relevant info attached
-- [[minimum viable programs]] - Noncompensatory eliminations based on location and input from [[Fleitas]]

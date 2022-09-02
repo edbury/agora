@@ -1,8 +1,8 @@
 title:               the back garden
-include:             ['_pages']
+include:             ['_pages', 'garden/_spaces/school']
 exclude:
   - '_includes/notes_graph.json'
-  - 'garden/Extras'
+  - 'garden/_extras'
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).

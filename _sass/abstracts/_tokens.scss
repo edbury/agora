@@ -28,8 +28,8 @@ body {
   --primary-font-family: 'Open Sans', -apple-system, blinkmacsystemfont, avenir next, avenir, segoe ui, helvetica neue, helvetica, ubuntu, roboto, noto, arial, sans-serif;
   --secondary-font-family: 'Gentium Book Basic', iowan old style, apple garamond, baskerville, times new roman, droid serif, times, source serif pro, serif, apple color emoji, segoe ui emoji, segoe ui symbol;
   --line-height-base: 1.5;
-  --max-line-length: 33rem;
-  --half-line-length: 16rem; // integer for grid math
+  --max-line-length: 56ch;
+  --half-line-length: 23ch; // integer for grid math
   --font-weight-bold: 600;
 
   // Type Scale
@@ -61,24 +61,4 @@ body {
   // Transition
   --transition-timing: ease-in-out;
   --transition-duration: 100ms;
-}
-
-.school {
-  // Base 16 Format. Atelier, Heather, Light.
-  --base00: #f7f3f7;
-  --base01: #d8cad8;
-  --base02: #ab9bab;
-  --base03: #9e8f9e;
-  --base04: #776977;
-  --base05: #695d69;
-  --base06: #292329;
-  --base07: #1b181b;
-  --base08: #ca402b;
-  --base09: #a65926;
-  --base0A: #bb8a35;
-  --base0B: #918b3b;
-  --base0C: #159393;
-  --base0D: #516aec;
-  --base0E: #7b59c0;
-  --base0F: #cc33cc;
 }

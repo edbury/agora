@@ -3,7 +3,6 @@
 EMPTY_FRONT_MATTER = <<~JEKYLL
   ---
   ---
-
 JEKYLL
 
 # Inject empty front matter in notes that don't have any
