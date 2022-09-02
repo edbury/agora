@@ -1,5 +1,5 @@
 created:: [[2022-07-21]]
-up:: [[mothership-gm]]
+up:: [[mothership]]
 tags:: #mosh #tdtv #gundam
 ***
 # Gundam

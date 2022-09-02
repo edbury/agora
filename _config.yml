@@ -60,3 +60,7 @@ defaults:
       path: "garden/_spaces/**/*.md"
     values:
       layout: "default"
+  - scope:
+      path: "garden/_spaces/mosh/**/*.md"
+    values:
+      layout: "yor"

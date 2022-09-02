@@ -1,21 +1,43 @@
 ---
 ---
-created:: [[2022-08-27]]
-up:: [[mothership]]
+created:: [[2022-07-21]]
+up:: [[+home]]
 tags:: #mosh 
 
-Hello, and welcome to Site 17.
+# Mothership
 
-We're so glad you've volunteered as a D-Class research subject. In exchange, your capital sentence has been commuted to a thirty-day term with us. That's right, only 720 hours of service, and you're free to go.
+## First Arc Modules
 
-Soon, you'll be taken to processing, where our expert staff will insert a state-of-the art monitoring capsule into the base of your neck. This ensures Foundation staff can find and identify you in case of an emergency.
+- [[Echoes in the Graveyard]]
+- [[Picket Line Tango]]
+- [[Piece by Piece]] 
+- [[Moonbase Blues]]
+- [[The Haunting of Ypsilon 14]]
+- [[Terminal Delays at Anarene's Folly]]
+- [[Chromatic Transference]]
+- [[Dead Planet]]
+- [[Aurora]]
+- 
 
-For now, just relax, and remember to comply with all staff instructions.
+## Home Base
 
-At Site 17, you're in good hands.
+- [[A Pound of Flesh]]
 
-----
+## Early Connections
 
-You may be looking for:
-- [[Character creation]]
-- [[1e rule errata]]
+- [[Rane in Blood]] and [[Black Pyramid]] both have space pirates
+
+## Player Drops
+
+- [[Rimwise Dispatch 0001]]
+
+## Mechanical Resources
+
+### Classes
+
+- Juggernauts - [[Blood Floats in Space]]
+- Psychics - [[Blood Floats in Space]]
+
+### Skills
+
+- [[The Hacker's Handbook]]

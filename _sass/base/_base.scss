@@ -20,11 +20,19 @@ a {
   text-decoration: none;
 }
 
+code {
+  font-size: var(--font-scale-0);
+}
+
 ol, ul {
   max-width: var(--max-line-length);
   margin: 0;
   margin-block-end: var(--space-m);
-  padding-inline-start: var(--space-m);
+  padding-inline-start: var(--space-l);
+
+  li {
+    margin-block-end: var(--space-s);
+  }
 
   &.task-list {
     padding-inline-start: 0;
@@ -111,8 +119,9 @@ p {
 
 table {
   width: auto;
-  margin-block: var(--space-m);
-  margin-inline: var(--space-m);
+  margin-block-start: 0;
+  margin-block-end: var(--space-m);
+  margin-inline: 0;
   border-spacing: 0;
   border-collapse: collapse;
   line-height: var(--line-height-base);
@@ -124,7 +133,7 @@ table {
 
 td, th {
   border-block-end: var(--border-width) var(--border-style) var(--border-color);
-  max-width: var(--max-width);
+  max-width: var(--max-line-length);
   padding-block: var(--space-s);
   padding-inline: var(--space-s);
   text-align: start;
