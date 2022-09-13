@@ -1,9 +1,15 @@
 ---
 ---
-:: SERVICE DEGRADED ::
+:: SERVICE LIMITED ::
 
-Due to an [[ ACCESS CONTROL LIST ]] override, Y.O.R. is unable to connect to the mesh network. Local networking is available with reduced functionality.
+Due to an [[ ACCESS CONTROL LIST ]] override, Y.O.R. is unable to connect to the mesh network. 
 
-[[welcome-aboard|Messages (1)]]
+Local connection to [[Site 17]] established. . .
+
+[[messages| messages (1)]]
+
+[[reports|reports (1)]]
+
+[[personnel]]
 
 [[player resources|Player Resources]]

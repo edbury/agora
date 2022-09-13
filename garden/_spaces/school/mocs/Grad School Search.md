@@ -1,6 +1,5 @@
 ---
 ---
-created:: [[2022-07-24]]
 up:: [[+home]]
 tags:: #gradsearch 
 
@@ -8,35 +7,40 @@ tags:: #gradsearch
 
 ## School Selection
 
+I'm currently gathering [[the requirements]] to apply to [[the list]].
+
+Here's how I got there:
+
 - [[total available programs]] - Largest possible scope w/ relevant info attached
 - [[minimum viable programs]] - Noncompensatory eliminations based on location and input from [[Fleitas]]
 - [[compatible programs]] - Reduced by orientation, research, and clinic alignment.
+- [[programs by the numbers]] - the compatible programs list, quantified
 
 ## Timeline
 
 ### June - August
 
-- [x] Narrow potential schools to 20-40 #gradsearch 📅 2022-08-31 ✅ 2022-08-31
-- [ ] Enroll in GRE Prep (General) #gradsearch 📅 2022-08-31
-- [ ] Enroll in GRE Prep (Psychology) #gradsearch 📅 2022-08-31
+- [x] Narrow potential PsyD programs to 20-40 #gradsearch
+- [x] Narrow potential PsyD programs to 20 max #gradsearch 
+- [x] Identify MSW fallbacks (to 20 cap) #gradsearch 
 
 ### August - September
 
-- [ ] Download program info and applications #gradsearch 
+- [x] Download program info and applications #gradsearch 📅 2022-09-05 ✅ 2022-09-07
+- [ ] Identify requirements for all programs #gradsearch 📅 2022-09-05 
 - [ ] Update CV #gradsearch 
+- [ ] Enroll in GRE Prep (General) #gradsearch 📅 2022-09-06 
+- [ ] Enroll in GRE Prep (Psychology) #gradsearch 📅 2022-09-06 
 - [ ] Register for GRE Psychology Subject Test (October date) #gradsearch 
 
 ### September - October
 
 - [ ] Take GRE General Test #gradsearch 
-- [ ] Solidify shortlist #gradsearch 
-- [ ] Note deadlines for shortlist applications #gradsearch 
 - [ ] Request copies of transcripts, inspect for omissions or errors #gradsearch 
 - [ ] First draft of personal statement #gradsearch 
 - [ ] Update CV #gradsearch 
 - [ ] Calculate application costs #gradsearch 
 - [ ] Finalize decision on letters #gradsearch 
-- [ ] Formulate Plan B #gradsearch 
 
 ### October - November
 
@@ -60,7 +64,6 @@ tags:: #gradsearch
 - [ ] Ensure all letters have been sent #gradsearch 
 - [ ] Complete FAFSA #gradsearch 
 - [ ] Prepare for admission interviews #gradsearch 
-- [ ] Develop Plan B #gradsearch 
 
 ### April - May
 

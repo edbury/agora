@@ -1,6 +1,6 @@
 ---
 ---
-created:: [[2022-07-24]]
+
 up:: [[Grad School Search]]
 tags:: #gradsearch 
 

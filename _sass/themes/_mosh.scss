@@ -19,9 +19,9 @@
 
   --primary-font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro","Fira Mono", "Droid Sans Mono", "Courier New", monospace; 
 
-  --space-m: 2ch;
+  --space-m: 3ch;
   --space-s: 1ch;
-  --space-l: 4ch;
+  --space-l: 5ch;
 
   @keyframes flicker {
     0% {
@@ -191,6 +191,13 @@
 
   a, .invalid-link {
     text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: var(--space-s);
   }
 
   h1,
@@ -200,9 +207,15 @@
   h5,
   h6 {
     font-size: var(--font-size-body);
+    margin-block-start: var(--space-m);
+    margin-block-end: var(--space-s);
 
     &::before {
       margin-inline-end: 1ch;
+    }
+
+    &::after {
+      margin-inline-start: 1ch;
     }
   }
 
@@ -217,6 +230,10 @@
         content: $hcontent;
       }
     }
+  }
+
+  table {
+    min-width: 100%;
   }
 
   td, th {

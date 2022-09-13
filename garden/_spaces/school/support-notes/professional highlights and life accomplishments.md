@@ -1,4 +1,4 @@
-created:: [[2022-07-27]]
+
 up:: [[Grad School Search]]
 tags:: #psych1009 #gradsearch 
 ***

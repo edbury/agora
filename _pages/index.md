@@ -7,4 +7,4 @@ permalink: /
 
 # Welcome! 🌱
 
-There's not much to see here yet, but you can check out my recent [highlights](/highlights).
+You might be looking for my recent [highlights](/highlights) or [YOR](/spaces/mosh/yor/).

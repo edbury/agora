@@ -10,7 +10,7 @@ tags:: #mosh
 
 - [[Echoes in the Graveyard]]
 - [[Picket Line Tango]]
-- [[Piece by Piece]] 
+- [[Trial 21-F-PXP]] 
 - [[Moonbase Blues]]
 - [[The Haunting of Ypsilon 14]]
 - [[Terminal Delays at Anarene's Folly]]

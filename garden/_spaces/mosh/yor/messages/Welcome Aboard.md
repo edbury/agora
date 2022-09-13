@@ -1,6 +1,7 @@
 ---
 ---
-up:: [[index]]
+up:: [[messages]]
+
 
 ```
 -------
@@ -18,3 +19,4 @@ Soon, you'll be taken to Processing, where our expert staff will insert a state-
 For now, just relax, and remember to comply with all staff instructions.
 
 At Site 17, you're in good hands.
+
