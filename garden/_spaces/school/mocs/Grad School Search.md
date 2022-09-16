@@ -5,16 +5,19 @@ tags:: #gradsearch
 
 # Grad school search
 
-## School Selection
+I'm currently gathering everything I need to satisfy [[the requirements]].
 
-I'm currently gathering [[the requirements]] to apply to [[the list]].
+Most programs expect applications by December 1, so I'll be treating that as my general deadline from here on.
 
-Here's how I got there:
+## Program selection
+
+Here's how I narrowed down my options:
 
 - [[total available programs]] - Largest possible scope w/ relevant info attached
 - [[minimum viable programs]] - Noncompensatory eliminations based on location and input from [[Fleitas]]
 - [[compatible programs]] - Reduced by orientation, research, and clinic alignment.
 - [[programs by the numbers]] - the compatible programs list, quantified
+- [[the list]] - the final list of suitable programs
 
 ## Timeline
 
@@ -26,25 +29,20 @@ Here's how I got there:
 
 ### August - September
 
-- [x] Download program info and applications #gradsearch 📅 2022-09-05 ✅ 2022-09-07
-- [ ] Identify requirements for all programs #gradsearch 📅 2022-09-05 
-- [ ] Update CV #gradsearch 
-- [ ] Enroll in GRE Prep (General) #gradsearch 📅 2022-09-06 
-- [ ] Enroll in GRE Prep (Psychology) #gradsearch 📅 2022-09-06 
-- [ ] Register for GRE Psychology Subject Test (October date) #gradsearch 
+- [x] Download program info and applications #gradsearch 
+- [x] Identify requirements for all programs #gradsearch 
+- [ ] Update CV (Round 1) #gradsearch 
 
 ### September - October
 
-- [ ] Take GRE General Test #gradsearch 
 - [ ] Request copies of transcripts, inspect for omissions or errors #gradsearch 
 - [ ] First draft of personal statement #gradsearch 
-- [ ] Update CV #gradsearch 
+- [ ] Update CV (Round 2) #gradsearch 
 - [ ] Calculate application costs #gradsearch 
 - [ ] Finalize decision on letters #gradsearch 
 
 ### October - November
 
-- [ ] Take GRE Psychology Test #gradsearch 
 - [ ] Prepare packets to give to recommenders #gradsearch 
 - [ ] Request letters of rec #gradsearch 
 - [ ] Arrange for registrar to send transcripts to schools #gradsearch 
