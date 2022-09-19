@@ -9,6 +9,7 @@ garden/_encounters
 garden/_spaces/*
 !garden/_spaces/school/
 !garden/_spaces/mosh/
+!garden/_spaces/fest/
 
 # Sass cache
 .sass-cache/
