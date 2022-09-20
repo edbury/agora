@@ -40,7 +40,7 @@ Service hours
 | Misc: Artifact identification     | + 10,000 cr |
 | **Total**                         | **14,000 cr**   | 
 
-### [[D-175]]
+### [[d-175]]
 
 Status
 : Survived; successful Jacobson recall
