@@ -1,12 +1,12 @@
 ---
 ---
-:: SERVICE LIMITED ::
+:: LOCAL LINK ENABLED ::
 
-Due to an [[ ACCESS CONTROL LIST ]] override, Y.O.R. is unable to connect to the mesh network. 
+Level 1 connection to [[Site 17]] established. 
 
-Local connection to [[Site 17]] established. . .
+Indexing archive. . .
 
-[[messages| messages (1)]]
+[[messages|messages (2)]]
 
 [[reports|reports (1)]]
 

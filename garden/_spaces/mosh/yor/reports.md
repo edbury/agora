@@ -4,8 +4,9 @@ up:: [[index]]
 
 # Reports
 
-| Contract           | Status   |
-| ------------------ | -------- |
-| [[Trial 21-F-PXP]] | Complete |
+| Contract           | Hazard | Status   |
+| ------------------ | ------ | -------- |
+| [[Trial 47-W-CT]]  | 2      | Complete |
+| [[Trial 21-F-PXP]] | 0      | Complete |
 
 

@@ -194,6 +194,17 @@
     white-space: nowrap;
   }
 
+  blockquote {
+    position: relative;
+    margin-inline-start: 4ch;
+
+    &::before {
+      position: absolute;
+      inset-inline-start: -4ch;
+      content: ">>";
+    }
+  }
+
   dl {
     display: grid;
     grid-template-columns: max-content 1fr;
