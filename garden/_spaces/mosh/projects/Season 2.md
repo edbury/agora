@@ -1,0 +1,5 @@
+---
+---
+up:: [[mothership]]
+tags:: #mosh 
+

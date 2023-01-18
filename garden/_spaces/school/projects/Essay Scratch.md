@@ -1,0 +1,34 @@
+---
+---
+up:: [[Essay Triage]]
+tags:: #gradsearch #output
+
+# Statement Template
+
+In March of 1997, my father died of liver failure. He had kept any complaints from his doctor for years and hidden his subsequent prognosis from our family. "To hide it from myself," my father told me from his hospital bed. This was my first real experience with death. I was eleven years old. 
+
+As a teen, I grieved the loss of my mother and stepfather when they abandoned my sisters and I in pursuit of individual addictions. We were lucky enough to quickly find caring guardians, but none of the officials involved offered us someone to talk to.
+
+Years later, during my first quarter of graduate school, our foster mother was found dead in Mexico. Neither the family nor the state informed us until after the funeral.
+
+That same winter, I was misdiagnosed and given a terminal prognosis. I was 21 years old. During three months of diagnosis and treatment, the only psychological care offered to me was a pamphlet titled, "Dying: what 'terminal' means for you," handed to me by the discharge planner during my initial visit.
+
+The year I turned thirty, my stepfather was found dead from a drug overdose, less than 20 miles from where my foster mother had been found years prior. It took six weeks of persistent phone calls to recover his body. 
+
+When the pandemic hit, my partner's brother was diagnosed with pancreatic cancer. He died alone in the hospital because his facility had no processes for emergency visitation during the pandemic. 
+
+I'm aware that performative over-sharing can be the kiss of death for candidates, and I have little desire to be seen as a catalog of hard-luck tales. I have had a lifelong and persistent relationship with loss, grief, and the systems available to the dying and bereaved in America. These experiences have instilled in me a drive -- not simply to help individuals -- but to enact change, to build better, more humane systems for handling this universal human condition. Experience, however, is not a sufficient teacher. Enacting change at any level can be challenging, and the cultural and systematic hurdles around death offer even greater difficulty. I remain curious and eager to understand how and why we react to loss in these myriad ways -- and how we can be better served. Because of the broader expertise and authority offered by a Psy.D., I believe that a doctoral path is my best option for doing so.
+
+It has been challenging to find institutions suited to this aim. Death, grief, and aging are often impolite topics in the West, and American psychology has not always evaded this bias. Even well-trained clinicians can lack the skills necessary to distinguish between grief and depression. Beyond classical training, emerging evidence-based treatments like mindfulness, spiritual investigation, and psychedelics have sometimes fallen into the realms of pseudoscience, anecdote, and even charlatanism. Distinguishing worthwhile treatment plans, implementing them, and convincing administrators to adopt them more broadly will require a skillful hand.
+
+At XXX I have found a program that embraces rigorous scholarship, hands-on training, and a diversity of experience. Professors X & Y are relatively unique in their interest and expertise in P & Q. More broadly, I want to feel comfortable at and proud of the institution I am joining. XXX's mission statement and commitment to diversity and multiculturalism speak to my personal values. In my search, I was surprised to discover how unique this is, even among clinical programs. Additionally, the outcome statistics from XXX speak for themselves. Changing careers will require a significant investment of time and money, and I feel confident that the training offered will ensure not only a path toward placement and licensure, but the skills required for ongoing scholarship and successful program design as novel treatment options continue to emerge. 
+
+It has been nearly half my lifetime since I attended the University of California, Santa Cruz, but I remain a banana slug at heart. When friends and family ask what I got out of a major in philosophy, I tell them that I learned how to think. Beyond the academic training, Santa Cruz instilled three things in me: a critical gaze toward the status quo, the importance of cultural humility, and the firm belief that knowledge is most valuable when converted into action. I have let those principles guide my career choices over the past decade. 
+
+After leaving academia, I built myself a career in design. I have spent years conducting user research, navigating industry and governmental regulation, and ensuring usability for multicultural audiences. I have fought hard, at multiple companies, for a focus on accessibility and organizational diversity. These are not fights I have always won, but they have taught me persistence and humility. Today, I am the Principal Systems Designer for a 5,000-person organization. I am proud of what I have achieved, but I want to be of service in a way Silicon Valley can't offer.
+
+In order to validate my desire and capability for this career shift, I enrolled at the University of California, Berkeley Extension in 2021. Their post-baccalaureate program for counseling and psychology professions felt tailor-built for those making this leap. I had reservations about taking on classes while working full time, but in psychology I have found an appreciation and hunger for learning that I haven't felt since freshman year. I finished my certificate over the summer and have continued on at Berkeley Extension to give myself the strongest academic foundation possible before matriculating.
+
+The strongest validation that this career is right for me, however, has come from my volunteer work at Hospice East Bay. Since January, I have been co-facilitating bereavement groups alongside licensed clinicians. At HEB I have taken the opportunity to work with as many populations and approaches as possible, including those specializing in spousal loss, adolescents and teens, and mindfulness practices. The work has been both rewarding and challenging in ways I did not expect. While I have felt true joy at clients opening up to their grief, I have also been reminded again and again how few options, both psychological and material, we have in being toward death. 
+
+There are, I believe, good people and good programs for handling loss and grief. However, at every level of the human ecosystem, the failures in this arena, especially in America, remain more prominent than the triumphs. When facing death from any side, we are often failed by our medical institutions, our culture, and even our caregivers. I know that with even a lifetime of work, one person may not change the status quo, but I am dedicated to contributing to that systemic change. I believe that XXX is my best chance at making that contribution matter.

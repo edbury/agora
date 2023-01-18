@@ -32,8 +32,11 @@ These are maps to launch your `efforts`. Where would you like to go?
 
 
 ## Groceries
-- [x] dishwasher pods #list/groceries 📅 2022-09-02 ✅ 2022-09-03
-- [ ] cough drops 
+
+```tasks
+filename includes groceries
+```
+
 
 ## Mega Task List
 ```tasks

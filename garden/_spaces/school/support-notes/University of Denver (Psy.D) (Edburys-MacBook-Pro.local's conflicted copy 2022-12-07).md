@@ -5,7 +5,7 @@ tags:: #gradsearch/program
 url:: https://psychology.du.edu/academics/psyd-clinical-psychology
 application:: https://gradadmissions.du.edu/apply
 
-- [x] Essay responses 📅 2022-11-24 ✅ 2022-12-08
+- [x] Essay responses 📅 2022-11-24 ✅ 2022-11-29
 
 -   Please respond to both essay prompts below and upload to your online application. The word limit for both essays combined is 1,500 words. Please upload one PDF including both essay responses to your online application and please number each essay response. 
 -   We do not require a personal statement.

@@ -5,9 +5,9 @@ tags:: #gradsearch/program
 url:: https://www.hartford.edu/academics/schools-colleges/arts-sciences/academics/departments-and-centers/psychology/psyd-clinical-psychology/default.aspx
 application:: https://go.hartford.edu/apply/aca
 
-- [x] Letter of Intent 📅 2022-11-24 ✅ 2022-12-08
-- [x] Personal Statement 📅 2022-11-24 ✅ 2022-12-08
-- [x] Diversity Essay 📅 2022-11-24 ✅ 2022-12-08
+- [x] Letter of Intent 📅 2022-11-24 ✅ 2022-12-01
+- [x] Personal Statement 📅 2022-11-24 ✅ 2022-12-01
+- [x] Diversity Essay 📅 2022-11-24 ✅ 2022-12-01
 - [x] Psychology course list 📅 2022-11-24 ✅ 2022-11-28
 
 ## Letter of Intent
